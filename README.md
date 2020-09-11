@@ -1,2 +1,2 @@
 # face_tracker
-Use's OpenCV's face detection DNN to track face movement over time
+Uses OpenCV's face detection deep neural network to track face movement over time.
